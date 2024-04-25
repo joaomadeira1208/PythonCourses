@@ -9,4 +9,4 @@ This is my repository to use as a reference for the Python Mastery course from C
 5. [Data Structures](https://github.com/joaomadeira1208/PythonCourses/tree/main/Python_Mastery/5.Data_Structures "Data Structures")**- Completed in 2024-04-22**
 6. [Exceptions](https://github.com/joaomadeira1208/PythonCourses/tree/main/Python_Mastery/6.Exceptions "Exceptions")**- Completed in 2024-04-23**
 7. [Classes](https://github.com/joaomadeira1208/PythonCourses/tree/main/Python_Mastery/7.Classes "Classes")**- Completed in 2024-04-23**
-8. [Modules](https://github.com/joaomadeira1208/PythonCourses/tree/main/Python_Mastery/8.Modules "Modules")
+8. [Modules](https://github.com/joaomadeira1208/PythonCourses/tree/main/Python_Mastery/8.Modules "Modules")**- Completed in 2024-04-24**
