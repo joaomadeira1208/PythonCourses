@@ -1,9 +1,0 @@
-Windows
-
--TO ACTIVATE:
-
-cd env/Scripts
-.\activate.ps1
-
--TO DEACTIVATE:
-deactivate
