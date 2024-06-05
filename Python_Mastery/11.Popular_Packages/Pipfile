@@ -6,9 +6,18 @@ name = "pypi"
 [packages]
 requests = "*"
 ipykernel = "*"
+twilio = "*"
+autopep8 = "*"
+beautifulsoup4 = "*"
+pylint = "*"
+selenium = "*"
+numpy = "*"
+pypdf2 = "*"
+openpyxl = "*"
 
 [dev-packages]
 autopep8 = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.12"
