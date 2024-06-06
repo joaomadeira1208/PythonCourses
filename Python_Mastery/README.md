@@ -13,3 +13,4 @@ This is my repository to use as a reference for the Python Mastery course from C
 9. [Python Standard Library](https://github.com/joaomadeira1208/PythonCourses/tree/main/Python_Mastery/9.Python_Std_Lib "Python Standard Library")**- Completed in 2024-05-23**
 10. [Python Package Index](https://github.com/joaomadeira1208/PythonCourses/tree/main/Python_Mastery/10.Py_Package_Index "Python Package Index")**- Completed in 2024-05-27**
 11. [Popular Python Packages](https://github.com/joaomadeira1208/PythonCourses/tree/main/Python_Mastery/11.Popular_Packages "Popular Python Packages")**- Completed in 2024-06-04**
+12. [Building Web Applications with Django](https://github.com/joaomadeira1208/PythonCourses/tree/main/Python_Mastery/12.Django "Building Web Applications with Django")**- Completed in 2024-06-06**
