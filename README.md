@@ -1,6 +1,6 @@
 # PythonCourses
 ## Description:
-This is my repository to use as a reference for Python courses. I will be adding all the code and notes that I take during the courses. I will also be adding some exercises and projects that I will be working on.
+This repository serves as a reference for the Python courses I have completed or am currently enrolled in. Below are the repositories for each course.
 
 ## Courses:
 1. [Code with Mosh - Python Mastery](https://github.com/joaomadeira1208/Python_Mastery "Code with Mosh - Python Mastery")**- Completed in 2024-06-13**
